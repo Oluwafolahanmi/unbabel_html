@@ -1,0 +1,350 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.bat{
+    height: 80px;
+    width: 100%;
+    background-color: #FFFFFF;
+    border-bottom: 1px solid rgb(211, 208, 208);
+    position: fixed;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+}
+.ter{
+    width: 15%;
+    height: 70%;
+    margin-left: 100px;
+}
+.ad{
+    height: 100%;
+    width: 70%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+}
+.git{
+    height: 100%;
+    width: 900px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+}
+.hut{
+    height: 50px;
+    background-color: transparent;
+    font-size: 15px;
+    color: black;
+    border: 0px;
+}
+.hut:hover{
+    color: blue;
+}
+.bit{
+    height: 50px;
+    width: 150px;
+    font-size: 15px;
+    border: 1px solid black;
+    border-radius: 50px;
+    background-color: white;
+}
+.yut{
+    background-color: rgb(0, 130, 143);
+    width: 40px;
+    height: 40px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    border-radius: 100%;
+    border: 0px;
+}
+.wed{
+    position: absolute;
+    width: 900px;
+    height: 300px;
+    margin-left: -410px;
+    border-radius: 10px;
+    box-shadow: -1px 1px 3px rgb(185, 185, 243);
+    border: 1px solid rgb(194, 194, 248);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    display: none;
+    background-color: white;
+}
+.gtr{
+    height: 270px;
+    width: 280px; 
+    margin: 5px; 
+}
+.ggt{
+    margin-top: 20px;
+    font-size: 20px;
+
+}
+.cdc{
+    margin-top: 10px;
+}
+.jhk{
+    border-right: 1px solid blue;
+}
+.no{
+    width: 75%;
+    margin-top: 40px;
+
+}
+.sol{
+    width: 750px;
+    position: absolute;
+    height: 300px;
+    background-color: blue;
+    margin-left: -370px;
+    border-radius: 10px;
+    box-shadow: -1px 1px 3px rgb(185, 185, 243);
+    border: 1px solid rgb(194, 194, 248);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    display: none;
+}
+.ddw:hover .sol{
+    display: flex;
+}
+.ddd:hover .wed{
+    display: flex;
+    position: absolute;
+}
+.ddf:hover .sol{
+    display: flex;
+}
+.ddp:hover .sol{
+    display: flex;
+}
+.lol{
+    height: 300px;
+    width: 75%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    background-color: white;
+    padding-left: 20px;
+    border-radius: 10px 0px 0px 10px;
+}
+.ret{
+    height: 100%;
+    width: 20%;
+    line-height: 30px;
+    background-color: blue;
+}
+.sis{
+    width: 260px;
+    height: 50%;
+    margin:0px 5px 5px 5px;
+}
+.fre{
+    color: white;
+}
+.dat{
+    height: 750px;
+    width: 1620px;
+    position: absolute;
+    margin-top: -70px;
+    margin-left: -1200px;
+    display: flex;
+    flex-wrap: wrap;
+    display: none;
+}
+.ddm:focus-within .dat{
+    display: flex;
+}
+.zda{
+    background-color: rgb(213, 233, 233);
+    height: 750px;
+    width: 50%;
+    text-align: center;
+    justify-content: space-around;
+    align-items: center;
+    display: flex;
+}
+.mai{
+    background-color: white;
+    height: 750px;
+    width: 50%;
+    text-align: center;
+    justify-content: space-around;
+    align-items: center;
+    display: flex;
+}
+.bit:hover{
+    border: 1px solid rgb(204, 201, 201);
+}
+.tyt{
+    line-height: 60px;
+}
+.hu{
+    height: 50px;
+    background-color: transparent;
+    font-size: 15px;
+    color: black;
+    border: 0px;
+}
+.kop{
+    position: absolute;
+    width: 50px;
+    height: 100px;
+    display: none;
+}
+.kill{
+    background-color: white;
+    width: 40px;
+    height: 40px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    border-radius: 100%;
+    border: 1px solid blue;
+    color: blue;
+    margin: 5px 0px;
+}
+.ddt:hover .kop{
+    display: block;
+}
+.sec{
+    align-items: center;
+    text-align: center;
+    display: flex;
+    justify-content: space-evenly;
+}
+.sec1{
+    margin-right: 120px;
+    margin-top: 20px;
+    font-size: 30px;
+    color: rgba(14, 11, 32, 0.815);
+   
+}
+.but{
+    width: 110px;
+    height: 45px;
+    background-color: white;
+    border-radius: 50px;
+}
+.ba img{
+    margin-top: 70px;
+    width: 500px;
+}
+.but1{
+    width: 160px;
+    height: 55px;
+    background-color: chocolate;
+    border-radius: 50px;
+   margin-right: 180px;
+   margin-top: 30px;
+  
+}
+.ww{
+    display: flex;
+    justify-content: center;
+    margin-top: 90px;
+    font-size: 25px;
+}
+.drp1{
+    background-color: transparent;
+    color: #550237;
+    position: relative;
+    border: none;
+}
+.drp1:hover{
+    color: #3852db;
+}
+.lott1{
+    display: none;
+    justify-content: space-between;
+    border-radius: 5px;
+    align-items: center;
+    
+}
+.lot{
+    top: 10px;
+}
+
+.lo:hover .lott1{
+    width: 600px;
+    height: 150px;
+    left: 80px;
+    display: flex;
+    position: absolute;
+    background-color: yellow;
+}
+.fg{
+    width: 1000px;
+    margin-left: 200px;
+    flex-wrap: wrap;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.log1{
+    width: 80px;
+    height: 70px;
+    margin: 5px;
+}
+.log2{
+    width: 90px;
+    height: 120px;
+}
+.log3{
+    width: 80px;
+    height: 40px;
+}
+.log4{
+    width: 90px;
+    height: 60px;
+}
+.log5{
+    width: 80px;
+    height: 70px;
+}
+.log6{
+    width: 90px;
+    height: 100px;
+}
+.log7{
+    width: 170px;
+    height: 250px;
+}
+.log8{
+    width: 170px;
+    height: 250px;
+}
+.sss{
+    background-color: #DCEEEB;
+    width: 100%;
+    height: 200px;
+    text-align: center;
+   align-content: center;
+   padding-top: 80px;
+}
+.sss2{
+    background-color: #DCEEEB;
+    width: 100%;
+    height: 200px;
+    display: flex;
+    text-align: center;
+    align-content: center;
+}
+.ss2{
+    background-color: #FAF4EB;
+    width: 50%;
+    height: 100%;
+}
+.ss3{
+    background-color: #FFAEBC;
+    width: 50%;
+    height: 100%; 
+}
